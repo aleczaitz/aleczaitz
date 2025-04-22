@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alec Zaitz
+# Hi, I'm Alec
 
 🎓 Computer Science student at BYU | 🧪 BYU Sandbox05 
 💻 Passionate about full-stack dev, algorithms, and real-world impact  
