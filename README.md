@@ -1,6 +1,6 @@
 # I'm Alec 🏄‍♂️
 
-🎓 Computer Science student at BYU | 🧪 BYU Sandbox05 
+🎓 Computer Science student at BYU | 🧪 Sandbox05 
 💻 Passionate about full-stack dev, algorithms, and real-world impact  
 🌱 Currently building: a driveway parking app (React + Firebase)
 
