@@ -2,7 +2,10 @@
 
 Computer Science student at BYU |  Sandbox05 
 Passionate about full-stack dev, algorithms, and real-world impact  
-Currently building: a driveway parking app (React + Firebase)
+Currently building:
+
+- A collaborative rich text editor with git integration: [Versionary](https://versionary.app/)
+- Airbnb for parking: [ParkPal](https://parkpal.co/)
 
 ---
 
