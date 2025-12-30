@@ -1,7 +1,7 @@
 My name is Alec Zaitz
 ===================================================================================================================================
 
-Full Stack Developer
+Aspiring Full Stack Developer
 --------------------
 
 I'm a student at BYU studying computer science and entrepreneurship. I'm currently in the Sandbox 05 cohort building a rich text editor with git integration for smooth collaborative versioning. Since my first robotics camp in 5th grade, I've been passionate about programming and building creative solutions for real problems.
